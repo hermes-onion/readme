@@ -21,3 +21,7 @@ Application has 3 base modules which communicate locally via HTTP.
 ### Contributing
 
 Contributions are welcomed! Please do not commit your changes directly onto master. Create a separate branch with whatever name you want and commit there. Also stick a comprehensive description. If changes are reliable I'll merge them with the master.
+
+### Licenses
+
+All repositories from https://github.com/hermes-onion/ are distributed under BSD-3-Clause license. Copyright is held by contributors as a whole.
